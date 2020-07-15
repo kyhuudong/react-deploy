@@ -1,26 +1,27 @@
 {
   "files": {
-    "main.css": "/react-deploy/static/css/main.f1e3f5fb.chunk.css",
-    "main.js": "/react-deploy/static/js/main.4b8cd45a.chunk.js",
-    "main.js.map": "/react-deploy/static/js/main.4b8cd45a.chunk.js.map",
+    "main.css": "/react-deploy/static/css/main.896c3a66.chunk.css",
+    "main.js": "/react-deploy/static/js/main.1069d040.chunk.js",
+    "main.js.map": "/react-deploy/static/js/main.1069d040.chunk.js.map",
     "runtime-main.js": "/react-deploy/static/js/runtime-main.3e11c617.js",
     "runtime-main.js.map": "/react-deploy/static/js/runtime-main.3e11c617.js.map",
-    "static/js/2.907a330d.chunk.js": "/react-deploy/static/js/2.907a330d.chunk.js",
-    "static/js/2.907a330d.chunk.js.map": "/react-deploy/static/js/2.907a330d.chunk.js.map",
+    "static/js/2.5319d421.chunk.js": "/react-deploy/static/js/2.5319d421.chunk.js",
+    "static/js/2.5319d421.chunk.js.map": "/react-deploy/static/js/2.5319d421.chunk.js.map",
     "index.html": "/react-deploy/index.html",
-    "precache-manifest.f80f77fb10116a9ba92f574babb829f1.js": "/react-deploy/precache-manifest.f80f77fb10116a9ba92f574babb829f1.js",
+    "precache-manifest.17966eb9cf5fae2a893fe54b287b49e5.js": "/react-deploy/precache-manifest.17966eb9cf5fae2a893fe54b287b49e5.js",
     "service-worker.js": "/react-deploy/service-worker.js",
-    "static/css/main.f1e3f5fb.chunk.css.map": "/react-deploy/static/css/main.f1e3f5fb.chunk.css.map",
-    "static/js/2.907a330d.chunk.js.LICENSE.txt": "/react-deploy/static/js/2.907a330d.chunk.js.LICENSE.txt",
+    "static/css/main.896c3a66.chunk.css.map": "/react-deploy/static/css/main.896c3a66.chunk.css.map",
+    "static/js/2.5319d421.chunk.js.LICENSE.txt": "/react-deploy/static/js/2.5319d421.chunk.js.LICENSE.txt",
     "static/media/background.jpg": "/react-deploy/static/media/background.2e874686.jpg",
+    "static/media/chatbot.css": "/react-deploy/static/media/passenger.45f59a88.png",
     "static/media/dogImage.jpg": "/react-deploy/static/media/dogImage.f0146a16.jpg",
     "static/media/mypicture3.png": "/react-deploy/static/media/mypicture3.bc44a536.png",
     "static/media/style.css": "/react-deploy/static/media/peaceful.cd6eeecd.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.3e11c617.js",
-    "static/js/2.907a330d.chunk.js",
-    "static/css/main.f1e3f5fb.chunk.css",
-    "static/js/main.4b8cd45a.chunk.js"
+    "static/js/2.5319d421.chunk.js",
+    "static/css/main.896c3a66.chunk.css",
+    "static/js/main.1069d040.chunk.js"
   ]
 }
